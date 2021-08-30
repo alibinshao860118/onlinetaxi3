@@ -1,0 +1,6 @@
+CREATE TABLE `tbl_pay`  (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `pay_name`  varchar(32),
+  `create_time` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 967 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = Dynamic;
