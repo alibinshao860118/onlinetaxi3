@@ -21,6 +21,7 @@ public class PayController {
     @LcnTransaction
     public String addPay(@RequestBody TblPay bean){
         tblPayDao.insert(bean);
+        //int i = 1/0;
         return "新增支付成功";
 
     }

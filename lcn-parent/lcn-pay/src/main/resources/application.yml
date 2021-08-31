@@ -36,4 +36,4 @@ eureka:
 #tm地址
 tx-lcn:
   client:
-    manager-address: 127.0.0.1:8071
+    manager-address: 127.0.0.1:8070

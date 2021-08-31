@@ -24,6 +24,8 @@ public class OrderTccController {
     @Autowired
     private RestTemplate restTemplate;
 
+    private static Map<String,Integer> maps = new HashMap<>();
+
     @PostMapping("/add-order-tcc")
     @Transactional(rollbackFor = Exception.class)
     @TccTransaction
@@ -48,7 +50,7 @@ public class OrderTccController {
         return "新增订单成功";
     }
 
-    private static Map<String,Integer> maps = new HashMap<>();
+
 
     public String cancelAdd(TblOrder bean){
         Integer a = maps.get("a");
