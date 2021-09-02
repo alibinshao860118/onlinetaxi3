@@ -7,19 +7,44 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="online-taxi-common" />
+        <module name="two" />
+        <module name="lcn-pay" />
         <module name="cloud-zuul" />
+        <module name="eureka" />
+        <module name="lcn-tm" />
+        <module name="lcn-order" />
+        <module name="one" />
+        <module name="seata-all" />
+        <module name="online-taxi-common" />
+        <module name="three" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-zuul" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="lcn-order" target="1.8" />
+      <module name="lcn-parent" target="1.8" />
+      <module name="lcn-pay" target="1.8" />
+      <module name="lcn-tm" target="1.8" />
+      <module name="one" target="1.8" />
       <module name="online-taxi-common" target="1.8" />
+      <module name="seata-all" target="1.8" />
+      <module name="three" target="1.8" />
+      <module name="two" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cloud-zuul" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="lcn-order" options="-parameters" />
+      <module name="lcn-pay" options="-parameters" />
+      <module name="lcn-tm" options="-parameters" />
+      <module name="one" options="-parameters" />
       <module name="online-taxi-common" options="-parameters" />
+      <module name="seata-all" options="-parameters" />
+      <module name="three" options="-parameters" />
+      <module name="two" options="-parameters" />
     </option>
   </component>
 </project>

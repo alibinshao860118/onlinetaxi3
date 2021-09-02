@@ -3,5 +3,16 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/19-cloud-zuul-zuul限流/cloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/19-cloud-zuul-zuul限流/online-taxi-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcn-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcn-parent/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcn-parent/eureka/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lcn-parent/lcn-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcn-parent/lcn-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcn-parent/lcn-tm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-all/one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-all/three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-all/two" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

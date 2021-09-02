@@ -3,8 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/19-cloud-zuul-zuul限流/cloud-zuul/cloud-zuul.iml" filepath="$PROJECT_DIR$/19-cloud-zuul-zuul限流/cloud-zuul/cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcn-parent/eureka/eureka.iml" filepath="$PROJECT_DIR$/lcn-parent/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcn-parent/lcn-order/lcn-order.iml" filepath="$PROJECT_DIR$/lcn-parent/lcn-order/lcn-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcn-parent/lcn-parent.iml" filepath="$PROJECT_DIR$/lcn-parent/lcn-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcn-parent/lcn-pay/lcn-pay.iml" filepath="$PROJECT_DIR$/lcn-parent/lcn-pay/lcn-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcn-parent/lcn-tm/lcn-tm.iml" filepath="$PROJECT_DIR$/lcn-parent/lcn-tm/lcn-tm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-all/one/one.iml" filepath="$PROJECT_DIR$/seata-all/one/one.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/online-taxi-3.iml" filepath="$PROJECT_DIR$/.idea/online-taxi-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-cloud-zuul-zuul限流/online-taxi-common/online-taxi-common.iml" filepath="$PROJECT_DIR$/19-cloud-zuul-zuul限流/online-taxi-common/online-taxi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-all/seata-all.iml" filepath="$PROJECT_DIR$/seata-all/seata-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-all/three/three.iml" filepath="$PROJECT_DIR$/seata-all/three/three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-all/two/two.iml" filepath="$PROJECT_DIR$/seata-all/two/two.iml" />
     </modules>
   </component>
 </project>

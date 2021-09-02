@@ -5,6 +5,14 @@
       <list>
         <option value="$PROJECT_DIR$/19-cloud-zuul-zuul限流/cloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/19-cloud-zuul-zuul限流/online-taxi-common/pom.xml" />
+        <option value="$PROJECT_DIR$/lcn-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/lcn-parent/lcn-order/pom.xml" />
+        <option value="$PROJECT_DIR$/lcn-parent/lcn-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/lcn-parent/lcn-tm/pom.xml" />
+        <option value="$PROJECT_DIR$/lcn-parent/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-all/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-all/one/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-all/three/pom.xml" />
       </list>
     </option>
   </component>
